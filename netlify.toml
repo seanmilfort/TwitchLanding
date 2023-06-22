@@ -1,0 +1,20 @@
+[[redirects]]
+from = "https://links.omgitzseanzie.com/*"
+to = "https://links.omgitzseanzie.tv/"
+status = 301
+force = true
+[[redirects]]
+from = "https://www.links.omgitzseanzie.com//*"
+to = "https://links.omgitzseanzie.tv/"
+status = 301
+force = true
+[[redirects]]
+from = "https://www.omgitzseanzie.com//*"
+to = "https://omgitzseanzie.tv/"
+status = 301
+force = true
+[[redirects]]
+from = "https://omgitzseanzie.com//*"
+to = "https://omgitzseanzie.tv/"
+status = 301
+force = true
